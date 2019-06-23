@@ -1,0 +1,14 @@
+#
+# Documentation is here: http://git-scm.com/docs/gitignore
+#
+
+#
+# For vim and Open Office temporary files
+#
+*.swp
+.~lock.*
+.*~
+*~
+
+tmp/
+
